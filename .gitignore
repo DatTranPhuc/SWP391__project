@@ -1,0 +1,11 @@
+# Build
+target/
+out/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
